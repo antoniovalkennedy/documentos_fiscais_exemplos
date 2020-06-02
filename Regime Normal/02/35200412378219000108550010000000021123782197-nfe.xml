@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe35200412378219000108550010000000021123782197">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>12378219</cNF>
+                <natOp>Venda de mercadoria a não contribuinte</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>2</nNF>
+                <dhEmi>2020-04-14T13:29:47-03:00</dhEmi>
+                <dhSaiEnt>2020-04-14T13:29:47-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>2</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>9</indPres>
+                <procEmi>0</procEmi>
+                <verProc>Enos 1.0</verProc>
+            </ide>
+            <emit>
+                <CNPJ>12378219000108</CNPJ>
+                <xNome>Diversos Industruia e Tecnologia - LTDA</xNome>
+                <xFant>Diversos Industruia</xFant>
+                <enderEmit>
+                    <xLgr>Rua Doutor Rui Batista Pereira</xLgr>
+                    <nro>524</nro>
+                    <xBairro>Caxingui</xBairro>
+                    <cMun>3550308</cMun>
+                    <xMun>São Paulo</xMun>
+                    <UF>SP</UF>
+                    <CEP>05517080</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>1138258298</fone>
+                </enderEmit>
+                <IE>308037787306</IE>
+                <IEST>56165</IEST>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>33550312000128</CNPJ>
+                <xNome>Prefeitura Municipal de Porto Velho</xNome>
+                <enderDest>
+                    <xLgr>Rua Brasil</xLgr>
+                    <nro>209</nro>
+                    <xBairro>Castanheira</xBairro>
+                    <cMun>1100205</cMun>
+                    <xMun>Porto Velho</xMun>
+                    <UF>RO</UF>
+                    <CEP>76811606</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>6936743528</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+                <email>contato@prefeituradeportovelho.com.br</email>
+            </dest>
+            <retirada>
+                <CNPJ>12378219000299</CNPJ>
+                <xNome>Diversos Industruia e Tecnologia - LTDA</xNome>
+                <xLgr>Rua Libero Badaro</xLgr>
+                <nro>280</nro>
+                <xCpl>2 andar</xCpl>
+                <xBairro>Caxingui</xBairro>
+                <cMun>3550308</cMun>
+                <xMun>São Paulo</xMun>
+                <UF>SP</UF>
+                <CEP>05517080</CEP>
+                <cPais>1058</cPais>
+                <xPais>Brasil</xPais>
+                <fone>1138258298</fone>
+                <email>estoque@diversos.com.br</email>
+            </retirada>
+            <autXML>
+                <CNPJ>88922803000144</CNPJ>
+            </autXML>
+            <autXML>
+                <CNPJ>12378219000108</CNPJ>
+            </autXML>
+            <autXML>
+                <CNPJ>33550312000128</CNPJ>
+            </autXML>
+            <det nItem="1">
+                <prod>
+                    <cProd>2</cProd>
+                    <cEAN>7899031535697</cEAN>
+                    <xProd>PRODUTO B</xProd>
+                    <NCM>70133700</NCM>
+                    <CFOP>6101</CFOP>
+                    <uCom>UN</uCom>
+                    <qCom>2.00</qCom>
+                    <vUnCom>1000.00</vUnCom>
+                    <vProd>2000.00</vProd>
+                    <cEANTrib>7899031535697</cEANTrib>
+                    <uTrib>UN</uTrib>
+                    <qTrib>2.00</qTrib>
+                    <vUnTrib>1000.00</vUnTrib>
+                    <vFrete>150.00</vFrete>
+                    <vSeg>100.00</vSeg>
+                    <vDesc>100.00</vDesc>
+                    <vOutro>20.00</vOutro>
+                    <indTot>1</indTot>
+                    <xPed>15626115</xPed>
+                    <nItemPed>12</nItemPed>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>2397.00</vBC>
+                            <pICMS>17.50</pICMS>
+                            <vICMS>419.48</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>50</CST>
+                            <vBC>2270.00</vBC>
+                            <pIPI>10.00</pIPI>
+                            <vIPI>227.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>2170.00</vBC>
+                            <pPIS>1.65</pPIS>
+                            <vPIS>35.81</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>2170.00</vBC>
+                            <pCOFINS>7.60</pCOFINS>
+                            <vCOFINS>164.92</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                    <ICMSUFDest>
+                        <vBCUFDest>2397.00</vBCUFDest>
+                        <vBCFCPUFDest>2397.00</vBCFCPUFDest>
+                        <pFCPUFDest>2.00</pFCPUFDest>
+                        <pICMSUFDest>17.50</pICMSUFDest>
+                        <pICMSInter>7.00</pICMSInter>
+                        <pICMSInterPart>100.00</pICMSInterPart>
+                        <vFCPUFDest>47.94</vFCPUFDest>
+                        <vICMSUFDest>251.69</vICMSUFDest>
+                        <vICMSUFRemet>0.00</vICMSUFRemet>
+                    </ICMSUFDest>
+                </imposto>
+                <infAdProd>vBCFCPUFDest = 2397.00 | pFCPUFDest = 2.00 | vFCPUFDest = 47.94</infAdProd>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>2397.00</vBC>
+                    <vICMS>419.48</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCPUFDest>47.94</vFCPUFDest>
+                    <vICMSUFDest>251.69</vICMSUFDest>
+                    <vICMSUFRemet>0.00</vICMSUFRemet>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>2000.00</vProd>
+                    <vFrete>150.00</vFrete>
+                    <vSeg>100.00</vSeg>
+                    <vDesc>100.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>227.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>35.81</vPIS>
+                    <vCOFINS>164.92</vCOFINS>
+                    <vOutro>20.00</vOutro>
+                    <vNF>2397.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>01610798000156</CNPJ>
+                    <xNome>Tecmar Transportes LTDA</xNome>
+                    <IE>495111</IE>
+                    <xEnder>Rua da Congregacao, 200 - Centro</xEnder>
+                    <xMun>Embu das Artes</xMun>
+                    <UF>SP</UF>
+                </transporta>
+                <vol>
+                    <qVol>4</qVol>
+                    <esp>Volumes</esp>
+                    <marca>FlexBox</marca>
+                    <nVol>1454, 5541, 7854, 1654</nVol>
+                    <pesoL>30.000</pesoL>
+                    <pesoB>42.000</pesoB>
+                    <lacres>
+                        <nLacre>123456</nLacre>
+                    </lacres>
+                    <lacres>
+                        <nLacre>123457</nLacre>
+                    </lacres>
+                    <lacres>
+                        <nLacre>541654</nLacre>
+                    </lacres>
+                    <lacres>
+                        <nLacre>326564</nLacre>
+                    </lacres>
+                </vol>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>01</tPag>
+                    <vPag>1000.00</vPag>
+                </detPag>
+                <detPag>
+                    <tPag>02</tPag>
+                    <vPag>1397.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>vFCP = 47.94 | DOCUMENTO EMITIDO POR LTDA OPTANTE PELO LUCRO REAL - GERA DIREITO A CREDITO FISCAL</infAdFisco>
+                <obsCont xCampo="Documento">
+                    <xTexto>125565</xTexto>
+                </obsCont>
+                <obsCont xCampo="Vendedor">
+                    <xTexto>Maria Carla</xTexto>
+                </obsCont>
+                <procRef>
+                    <nProc>NT-JSHD 4564</nProc>
+                    <indProc>9</indProc>
+                </procRef>
+            </infAdic>
+            <compra>
+                <xNEmp>156455</xNEmp>
+                <xPed>6621</xPed>
+                <xCont>188</xCont>
+            </compra>
+            <infRespTec>
+                <CNPJ>10482083000156</CNPJ>
+                <xContato>DH SISTEMAS E CERTIFICACAO LTDA</xContato>
+                <email>contato@dhsistemas.com.br</email>
+                <fone>8433333445</fone>
+            </infRespTec>
+        </infNFe>
+    </NFe>
+</nfeProc>

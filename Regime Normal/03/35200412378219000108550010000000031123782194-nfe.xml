@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe35200412378219000108550010000000031123782194">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>12378219</cNF>
+                <natOp>Venda de mercadoria a Distribuidor</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>3</nNF>
+                <dhEmi>2020-04-15T13:29:47-03:00</dhEmi>
+                <dhSaiEnt>2020-04-15T13:29:47-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3550308</cMunFG>
+                <tpImp>2</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>2</indPres>
+                <procEmi>0</procEmi>
+                <verProc>Enos 1.0</verProc>
+            </ide>
+            <emit>
+                <CNPJ>12378219000108</CNPJ>
+                <xNome>Diversos Industruia e Tecnologia - LTDA</xNome>
+                <xFant>Diversos Industruia</xFant>
+                <enderEmit>
+                    <xLgr>Rua Doutor Rui Batista Pereira</xLgr>
+                    <nro>524</nro>
+                    <xBairro>Caxingui</xBairro>
+                    <cMun>3550308</cMun>
+                    <xMun>São Paulo</xMun>
+                    <UF>SP</UF>
+                    <CEP>05517080</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>1138258298</fone>
+                </enderEmit>
+                <IE>308037787306</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>20586481000176</CNPJ>
+                <xNome>Sabrina e Enrico Telecomunicacoes - ME</xNome>
+                <enderDest>
+                    <xLgr>Rua Domingos Hasmann</xLgr>
+                    <nro>57</nro>
+                    <xBairro>Residencial Village Santana</xBairro>
+                    <cMun>3518404</cMun>
+                    <xMun>Guaratinguetá</xMun>
+                    <UF>SP</UF>
+                    <CEP>12513445</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>1138447057</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>205168655</IE>
+                <IM>1151</IM>
+                <email>contato@clcom.com.br</email>
+            </dest>
+            <autXML>
+                <CNPJ>88922803000144</CNPJ>
+            </autXML>
+            <autXML>
+                <CNPJ>12378219000108</CNPJ>
+            </autXML>
+            <autXML>
+                <CNPJ>52590051000114</CNPJ>
+            </autXML>
+            <det nItem="1">
+                <prod>
+                    <cProd>3</cProd>
+                    <cEAN>7899031535697</cEAN>
+                    <xProd>PRODUTO C</xProd>
+                    <NCM>70133700</NCM>
+                    <cBenef>SP800000</cBenef>
+                    <CFOP>5101</CFOP>
+                    <uCom>UN</uCom>
+                    <qCom>3.00</qCom>
+                    <vUnCom>495.00</vUnCom>
+                    <vProd>1485.00</vProd>
+                    <cEANTrib>7899031535697</cEANTrib>
+                    <uTrib>UN</uTrib>
+                    <qTrib>3.00</qTrib>
+                    <vUnTrib>495.00</vUnTrib>
+                    <vFrete>120.00</vFrete>
+                    <vDesc>148.50</vDesc>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS20>
+                            <orig>0</orig>
+                            <CST>20</CST>
+                            <modBC>3</modBC>
+                            <pRedBC>30.00</pRedBC>
+                            <vBC>935.55</vBC>
+                            <pICMS>18.00</pICMS>
+                            <vICMS>168.40</vICMS>
+                            <vBCFCP>935.55</vBCFCP>
+                            <pFCP>2.00</pFCP>
+                            <vFCP>18.71</vFCP>
+                            <vICMSDeson>72.17</vICMSDeson>
+                            <motDesICMS>9</motDesICMS>
+                        </ICMS20>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>50</CST>
+                            <qUnid>3.00</qUnid>
+                            <vUnid>70.0000</vUnid>
+                            <vIPI>210.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISAliq>
+                            <CST>02</CST>
+                            <vBC>935.55</vBC>
+                            <pPIS>4.95</pPIS>
+                            <vPIS>46.31</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>02</CST>
+                            <vBC>935.55</vBC>
+                            <pCOFINS>22.80</pCOFINS>
+                            <vCOFINS>213.31</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+                <infAdProd>vBCFCP = 935.55 | pFCP = 2.00 | vFCP = 18.71</infAdProd>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>935.55</vBC>
+                    <vICMS>168.40</vICMS>
+                    <vICMSDeson>72.17</vICMSDeson>
+                    <vFCP>18.71</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>1485.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>148.50</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>210.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>46.31</vPIS>
+                    <vCOFINS>213.31</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>1546.50</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>1</modFrete>
+                <vol>
+                    <qVol>1</qVol>
+                    <esp>Volumes</esp>
+                    <pesoL>10.000</pesoL>
+                    <pesoB>16.000</pesoB>
+                </vol>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>04</tPag>
+                    <vPag>1546.50</vPag>
+                    <card>
+                        <tpIntegra>1</tpIntegra>
+                        <CNPJ>12345678000123</CNPJ>
+                        <tBand>02</tBand>
+                        <cAut>1567891</cAut>
+                    </card>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>vFCP = 18.71 | DOCUMENTO EMITIDO POR LTDA OPTANTE PELO LUCRO REAL - GERA DIREITO A CREDITO FISCAL</infAdFisco>
+                <obsCont xCampo="Documento">
+                    <xTexto>165554</xTexto>
+                </obsCont>
+                <obsCont xCampo="Vendedor">
+                    <xTexto>Jose Carlos</xTexto>
+                </obsCont>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>10482083000156</CNPJ>
+                <xContato>DH SISTEMAS E CERTIFICACAO LTDA</xContato>
+                <email>contato@dhsistemas.com.br</email>
+                <fone>8433333445</fone>
+            </infRespTec>
+        </infNFe>
+    </NFe>
+</nfeProc>
